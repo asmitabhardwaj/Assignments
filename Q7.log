@@ -1,0 +1,17 @@
+INFO 2022-07-16 13:13:51,219 root Name of employee is Harry, id = 344 and mail = acd@gmail.com
+INFO 2022-07-16 13:13:51,222 root Job Role is Developer
+INFO 2022-07-16 13:13:51,222 root Company is a Product Based 
+INFO 2022-07-16 13:14:43,555 root Name of employee is Harry, id = 344 and mail = acd@gmail.com
+INFO 2022-07-16 13:14:43,556 root None
+INFO 2022-07-16 13:14:43,557 root Job Role is Developer
+INFO 2022-07-16 13:14:43,557 root Company is a Product Based 
+INFO 2022-07-16 13:16:00,181 root Name of employee is Harry, id = 344 and mail = acd@gmail.com
+INFO 2022-07-16 13:16:00,181 root Job hiring date will be 2022-07-16  
+INFO 2022-07-16 13:16:00,181 root None
+INFO 2022-07-16 13:16:00,182 root Job Role is Developer
+INFO 2022-07-16 13:16:00,183 root Company is a Product Based 
+INFO 2022-07-16 13:16:27,958 root Name of employee is Harry, id = 344 and mail = acd@gmail.com
+INFO 2022-07-16 13:16:27,958 root Job hiring date will be 2022-07-16  
+INFO 2022-07-16 13:16:27,958 root None
+INFO 2022-07-16 13:16:27,959 root Job Role is Developer
+INFO 2022-07-16 13:16:27,959 root Company is a Product Based 
